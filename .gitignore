@@ -5,7 +5,6 @@ Library/
 Temp/
 obj/
 Assets/JMO Assets/
-Doc/
 WebGL/
 *.csproj
 *.pidb
